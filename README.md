@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benjamin
 - 👀 I’m interested in academic collaboration and IT consultation opportunities
-- 🌱 I’m currently learning Machine Learning application in IoT Security.
+- 🌱 I’m currently researching on Adaptive Machine Learning for Sustainable Agriculture.
 - 💞️ I’m looking to collaborate on Information Technnology Research around SDGs
 - 📫 How to reach me on all Social Media platform as @odlabenonline
 
